@@ -1,0 +1,2 @@
+Deskripsi:
+Memetakan polusi air berdasarkan hasil AI yang diinput menggunakan kamera smartphone dan disimpan di database, serta user dapat melihat history log dari daerah tersebut.
