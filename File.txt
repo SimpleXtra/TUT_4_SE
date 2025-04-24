@@ -5,3 +5,10 @@ Fitur:
 - Memetakan kualitas air di berbagai wilayah.
 - Memprediksi kualitas air dari foto menggunakan AI.
 - Menotifikasi pengguna akan kualitas air yang buruk di area sekitar.
+
+Anggota Tim:
+- 2702322853	Evan Fredericksen Hartono
+- 2702320860	Arthaz Anthony
+- 2702347263	Rafi Hazel Tafara
+- 2702235134	Osel Citta Chen
+- 2702369346	Yosepril Zhounggi
